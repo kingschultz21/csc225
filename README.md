@@ -1,4 +1,5 @@
-# csc225CSc 225: Data Structures and Algorithms I
+# CSc 225: Data Structures and Algorithms I
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDQ0MDY5N119
+eyJoaXN0b3J5IjpbLTUwNTUwODM0N119
 -->
